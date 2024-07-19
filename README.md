@@ -1,5 +1,11 @@
 # Basic Nginx Setup Example
 
+# Test config:
+```nginx -t```
+
+# Restart service:
+```service nginx restart```
+
 # Init project: 
 ```npm init -y```
 
