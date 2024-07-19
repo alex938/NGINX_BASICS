@@ -1,2 +1,3 @@
 # NGINX_BASICS
-Nginx Basics
+
+Basic Nginx Setup Example
